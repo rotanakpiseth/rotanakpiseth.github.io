@@ -1,0 +1,14 @@
+Package: com.rotanakpiseth.hoxty.iconpack
+Name: Icon Pack
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Rotanakpiseth's Icon Pack 
+Homepage: https://www.facebook.com/rothlovesina
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: Mytheme-RP
+Essential: yes
+Priority: required
+Filename: ./rpiseth/Iconpack.deb
+Size: 339824  
+MD5sum: f6b083ee6b082979f808fad7a4243138
