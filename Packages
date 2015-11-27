@@ -13,17 +13,17 @@ Filename: ./rpiseth/Iconpack.deb
 Size: 339824  
 MD5sum: f6b083ee6b082979f808fad7a4243138
 
-Package: com.rotanakpiseth.hoxty.batteryghost
+Package: rotanakpiseth.github.io.batteryghost
 Name: Battery Ghost
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Change style battery!
 Homepage: https://www.facebook.com/rothlovesina
-Depiction: http://rotanakpiseth.hoxty.com/batteryghost.html
+Depiction: http://rotanakpiseth.github.io/batteryghost.html
 Maintainer: Rotanakpiseth <piseth9@gmail.com>
 Author: Rotanakpiseth <piseth9@gmail.com>
-Section: Alkalines
-Depends: com.fortysixandtwo.alkaline, com.rotanakpiseth.hoxty.iconpack
+Section: Alkalines-RP
+Depends: com.fortysixandtwo.alkaline, rotanakpiseth.github.io.iconpack
 Filename: ./rpiseth/batteryghost.deb
-Size: 1518332  
-MD5sum: 629635b0f90c7023c1554b4ac867ed2c
+Size: 1518320  
+MD5sum: d6c37e6471756566337722e4c555d3e4
