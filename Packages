@@ -19,11 +19,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Change style battery!
 Homepage: https://www.facebook.com/rothlovesina
-Depiction: http://rotanakpiseth.github.io/batteryghost.html
+Depiction: http://rotanakpiseth.github.io/screenshots.html
 Maintainer: Rotanakpiseth <piseth9@gmail.com>
 Author: Rotanakpiseth <piseth9@gmail.com>
 Section: Alkalines-RP
 Depends: com.fortysixandtwo.alkaline, rotanakpiseth.github.io.iconpack
 Filename: ./rpiseth/batteryghost.deb
-Size: 1518320  
-MD5sum: d6c37e6471756566337722e4c555d3e4
+Size: 1518320   
+MD5sum: 6c34be2e634b0c9ecca8ffe174d6d0f3
