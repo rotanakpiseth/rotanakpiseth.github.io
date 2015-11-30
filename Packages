@@ -10,9 +10,9 @@ Author: Rotanakpiseth <piseth9@gmail.com>
 Section: MyTheme-RP
 Essential: yes
 Priority: required
-Filename: ./rpiseth/iconpack.deb
+Filename: ./rpiseth/Iconpack.deb
 Size: 247358   
-MD5sum: 3b77234efc54b91f35ef50d83ac8e13d
+MD5sum: 7ee0977d81b1be8e543cc4c1d6294542
 
 Package: rotanakpiseth.github.io.cutecreb
 Name: cuteកិប
