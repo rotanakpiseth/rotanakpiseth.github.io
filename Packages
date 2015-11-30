@@ -1,29 +1,30 @@
-Package: com.rotanakpiseth.hoxty.iconpack
+Package: rotanakpiseth.github.io.iconpack
 Name: Icon Pack
-Version: 1.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Rotanakpiseth's Icon Pack 
 Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/screenshots.html
 Maintainer: Rotanakpiseth <piseth9@gmail.com>
 Author: Rotanakpiseth <piseth9@gmail.com>
-Section: Mytheme-RP
+Section: MyTheme-RP
 Essential: yes
 Priority: required
-Filename: ./rpiseth/Iconpack.deb
-Size: 339824  
-MD5sum: f6b083ee6b082979f808fad7a4243138
+Filename: ./rpiseth/iconpack.deb
+Size: 247358   
+MD5sum: 3b77234efc54b91f35ef50d83ac8e13d
 
-Package: rotanakpiseth.github.io.batteryghost
-Name: Battery Ghost
+Package: rotanakpiseth.github.io.cutecreb
+Name: cuteកិប
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Change style battery!
+Description: សម្លេងរោទិ៍រណ្ដំចិត្ត
 Homepage: https://www.facebook.com/rothlovesina
-Depiction: http://rotanakpiseth.github.io/screenshots.html
+Depiction:  http://rotanakpiseth.github.io/decription/cutecreb.html
 Maintainer: Rotanakpiseth <piseth9@gmail.com>
 Author: Rotanakpiseth <piseth9@gmail.com>
-Section: Alkalines-RP
-Depends: com.fortysixandtwo.alkaline, rotanakpiseth.github.io.iconpack
-Filename: ./rpiseth/batteryghost.deb
-Size: 1518320   
-MD5sum: 6c34be2e634b0c9ecca8ffe174d6d0f3
+Section: RingTones-RP
+Depends: com.unlimapps.toneenabler, rotanakpiseth.github.io.iconpack
+Filename: ./rpiseth/cutecreb.deb
+Size: 3043442  
+MD5sum: ea2a7837f92960fa0f03c724fb7e354a
