@@ -28,3 +28,33 @@ Depends: com.unlimapps.toneenabler, rotanakpiseth.github.io.iconpack
 Filename: ./rpiseth/cutecreb.deb
 Size: 3043442  
 MD5sum: ea2a7837f92960fa0f03c724fb7e354a
+
+Package: rotanakpiseth.github.io.khmerclocklove
+Name: Khmer Clock Love
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change Style LockScreen With LockHTML4.
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/khmerclocklove.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: StyleHTML-RP
+Depends: rotanakpiseth.github.io.iconpack
+Filename: ./rpiseth/khmerclocklove.deb
+Size: 179906  
+MD5sum: 49af6e8e2766be627308d50349e5081f
+
+Package: rotanakpiseth.github.io.lsmeansnehameankacherchab
+Name: LS មានស្នេហាមានការឈឺចាប់!
+Version: 1.០
+Architecture: iphoneos-arm
+Description: Change Style LockScreen With LockHTML4.
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/lsmeansnehameankacherchab.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: StyleHTML-RP
+Depends: rotanakpiseth.github.io.iconpack
+Filename: ./rpiseth/lsmeansnehameankacherchab.deb
+Size: 130540  
+MD5sum: b0cb1d0d02dbd29caf61cab8ba214e41
