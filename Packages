@@ -58,3 +58,19 @@ Depends: rotanakpiseth.github.io.iconpack
 Filename: ./rpiseth/lsmeansnehameankacherchab.deb
 Size: 130540  
 MD5sum: b0cb1d0d02dbd29caf61cab8ba214e41
+
+Package: rotanakpiseth.github.io.3gtolte
+Name: 3G TO LTE
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change Logo 3G,4G to LTE with my tweak!
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/3gtolte.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: 3G-RP
+Depends: mobilesubstrate, firmware (>= 7.0), rotanakpiseth.github.io.iconpack
+Conflicts: rotanakpiseth.github.io.3gtolte, rotanakpiseth.github.io.3gtoheart, rotanakpiseth.github.io.3gto4g, rotanakpiseth.github.io.3gtoa, rotanakpiseth.github.io.3gtob, rotanakpiseth.github.io.3gtoc, rotanakpiseth.github.io.3gtod, rotanakpiseth.github.io.3gtoe, rotanakpiseth.github.io.3gtof, rotanakpiseth.github.io.3gtog, rotanakpiseth.github.io.3gtoh, rotanakpiseth.github.io.3gtoi, rotanakpiseth.github.io.3gtoj, rotanakpiseth.github.io.3gtok, rotanakpiseth.github.io.3gtol, rotanakpiseth.github.io.3gton
+Filename: ./rpiseth/3gtolte.deb
+Size: 1426  
+MD5sum: 6f0ace9c73f93a6e45d9b3bf33ae3794
