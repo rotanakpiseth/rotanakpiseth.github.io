@@ -89,3 +89,18 @@ Depends: com.unlimapps.toneenabler, rotanakpiseth.github.io.iconpack
 Filename: ./rpiseth/chongteanovkromom.deb
 Size: 3091854  
 MD5sum: 75fdff4f4d3fa1f4f2d3279b7cf45216
+
+Package: rotanakpiseth.github.io.ringtonechina
+Name: Ringtone China
+Version: 1.0
+Architecture: iphoneos-arm
+Description: សម្លេងរោទិ៍រណ្ដំចិត្ត
+Homepage: https://www.facebook.com/rothlovesina
+Depiction:  http://rotanakpiseth.github.io/decription/ringtonechina.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: RingTones-RP
+Depends: com.unlimapps.toneenabler, rotanakpiseth.github.io.iconpack
+Filename: ./rpiseth/ringtonechina.deb
+Size: 1338148  
+MD5sum: efc9f711dd145b54464f454d6d474aed
