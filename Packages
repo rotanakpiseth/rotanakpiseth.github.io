@@ -104,3 +104,51 @@ Depends: com.unlimapps.toneenabler, rotanakpiseth.github.io.iconpack
 Filename: ./rpiseth/ringtonechina.deb
 Size: 1338148  
 MD5sum: efc9f711dd145b54464f454d6d474aed
+
+Package: rotanakpiseth.github.io.3gtoheart
+Name: 3G TO HEART
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change Logo 3G,4G to LTE with my tweak!
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/3gtoheart.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: 3G-RP
+Depends: mobilesubstrate, firmware (>= 7.0), rotanakpiseth.github.io.iconpack
+Conflicts: rotanakpiseth.github.io.3gtolte, rotanakpiseth.github.io.3gtoheart, rotanakpiseth.github.io.3gto4g, rotanakpiseth.github.io.3gtoa, rotanakpiseth.github.io.3gtob, rotanakpiseth.github.io.3gtoc, rotanakpiseth.github.io.3gtod, rotanakpiseth.github.io.3gtoe, rotanakpiseth.github.io.3gtof, rotanakpiseth.github.io.3gtog, rotanakpiseth.github.io.3gtoh, rotanakpiseth.github.io.3gtoi, rotanakpiseth.github.io.3gtoj, rotanakpiseth.github.io.3gtok, rotanakpiseth.github.io.3gtol, rotanakpiseth.github.io.3gton
+Filename: ./rpiseth/3gtoheart.deb
+Size: 1442  
+MD5sum: 7fdade69dab0f48cbba8848b57365676
+
+Package: rotanakpiseth.github.io.3gto4g
+Name: 3G TO 4G
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change Logo 3G,4G to LTE with my tweak!
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/3gto4g.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: 3G-RP
+Depends: mobilesubstrate, firmware (>= 7.0), rotanakpiseth.github.io.iconpack
+Conflicts: rotanakpiseth.github.io.3gtolte, rotanakpiseth.github.io.3gtoheart, rotanakpiseth.github.io.3gto4g, rotanakpiseth.github.io.3gtoa, rotanakpiseth.github.io.3gtob, rotanakpiseth.github.io.3gtoc, rotanakpiseth.github.io.3gtod, rotanakpiseth.github.io.3gtoe, rotanakpiseth.github.io.3gtof, rotanakpiseth.github.io.3gtog, rotanakpiseth.github.io.3gtoh, rotanakpiseth.github.io.3gtoi, rotanakpiseth.github.io.3gtoj, rotanakpiseth.github.io.3gtok, rotanakpiseth.github.io.3gtol, rotanakpiseth.github.io.3gton
+Filename: ./rpiseth/3gto4g.deb
+Size: 1424  
+MD5sum: 78c84c15d11e462f402a11b0ff854977
+
+Package: rotanakpiseth.github.io.3gtoa
+Name: 3G TO 5G
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change Logo 3G,4G to LTE with my tweak!
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/3gtoa.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: 3G-RP
+Depends: mobilesubstrate, firmware (>= 7.0), rotanakpiseth.github.io.iconpack
+Conflicts: rotanakpiseth.github.io.3gtolte, rotanakpiseth.github.io.3gtoheart, rotanakpiseth.github.io.3gto4g, rotanakpiseth.github.io.3gtoa, rotanakpiseth.github.io.3gtob, rotanakpiseth.github.io.3gtoc, rotanakpiseth.github.io.3gtod, rotanakpiseth.github.io.3gtoe, rotanakpiseth.github.io.3gtof, rotanakpiseth.github.io.3gtog, rotanakpiseth.github.io.3gtoh, rotanakpiseth.github.io.3gtoi, rotanakpiseth.github.io.3gtoj, rotanakpiseth.github.io.3gtok, rotanakpiseth.github.io.3gtol, rotanakpiseth.github.io.3gton
+Filename: ./rpiseth/3gtoa.deb
+Size: 1424  
+MD5sum: 5b47b2901d2308108c391cafe55ebfbc
