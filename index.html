@@ -33,4 +33,27 @@ jQuery(document).ready(function () {
   </div>
  <b>VISITOR</b><br/>
 <script type="text/javascript" src="http://counter7.fcs.ovh/private/counter.js?c=eaef452b0207ae41219e7fb0309d8eea"></script>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1515858742041613',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
 </html>
