@@ -1473,3 +1473,18 @@ Conflicts: rotanakpiseth.github.io.IOS9akbalthomkbach, rotanakpiseth.github.io.f
 Filename: ./rpiseth/IOS9akbalthomkbach.deb
 Size: 72736  
 MD5sum: b29fcb0a8b612e23eb30dbbc7e3d929a
+
+Package: rotanakpiseth.github.io.happynewyearanimation
+Name: Happy New Year Animation
+Version: 1.០
+Architecture: iphoneos-arm
+Description: Change Style background on LockScreen With LockHTML4.
+Homepage: https://www.facebook.com/rothlovesina
+Depiction: http://rotanakpiseth.github.io/decription/happynewyearanimation.html
+Maintainer: Rotanakpiseth <piseth9@gmail.com>
+Author: Rotanakpiseth <piseth9@gmail.com>
+Section: StyleHTML-RP
+Depends: rotanakpiseth.github.io.iconpack
+Filename: ./rpiseth/happynewyearanimation.deb
+Size: 5044288  
+MD5sum: 8ac0e011ab6932cdad0ead7c9123e803
